@@ -1,0 +1,9 @@
+body{
+  color:white;
+  background:url(https://images.pexels.com/photos/696644/pexels-photo-696644.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb);
+  background-size: cover;
+    background-attachment: fixed;
+}
+ul{
+  color:#00aaaa;
+}
